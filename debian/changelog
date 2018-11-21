@@ -1,3 +1,9 @@
+python-hypothesis (3.4.2-2pardus1) unstable; urgency=medium
+
+  * Pardus CI integration
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Wed, 21 Nov 2018 13:38:22 +0300
+
 python-hypothesis (3.4.2-2~bpo8+1) jessie-backports; urgency=medium
 
   * Rebuild for jessie-backports.
